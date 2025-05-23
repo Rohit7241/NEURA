@@ -1,0 +1,1 @@
+GENAI_API="AIzaSyDWRJAbDv_LWieYHaQfoe3iWlickhb-SCg"
